@@ -1,4 +1,4 @@
-## Hi, I'm Ankur Singh Kuntal
+## 👋Hi, I'm Ankur Singh Kuntal
 # 💫 About Me:
 software Engineer sharing about my techstack in technology.<br>I am pursuing a Bachelor's in Computer Engineering at Army Institute of Technology.<br>I seek to collaborate in open source projects utilizing my tech stack.<br>As a BTech student, I thrive on coding, debugging, and lifelong learning.<br>
 
